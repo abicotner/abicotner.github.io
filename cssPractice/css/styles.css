@@ -1,0 +1,29 @@
+/*Abi Cotner
+February 18, 2025*/
+header{
+    background-color: plum;
+}
+footer{
+    background-color: plum;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+a:link{
+    color:brown
+}
+a:visted{
+    color:goldenrod
+}
+a:hover{
+    color:yellowgreen
+}
+a:active{
+    color:aquamarine
+}
