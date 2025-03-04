@@ -1,0 +1,58 @@
+/* Abi & Richard
+March 3, 2025 */
+
+#outerwrapper {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.floatleft { 
+	float: left;
+	margin: 3%;
+}
+
+.floatright {
+	float: right;
+	margin: 3%;
+}
+
+main, footer { 
+	clear: both;
+	padding: 10px;
+}
+
+footer {
+	text-size-adjust: .75em;
+	text-align: center;
+	background-color: grey;
+}
+
+body {
+	background-color: #B8D1EB;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+	background-color: #C5A98B;
+	padding: 10px;
+}
+
+main ul {
+	list-style-type: none;
+	list-style-image: url(../image/tomato.png);
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 {
+	font-family: Georgia;
+}
+
+h2 {
+	font-family: Brush Script;
+	font-weight: normal;
+	font-style: italic;
+}
