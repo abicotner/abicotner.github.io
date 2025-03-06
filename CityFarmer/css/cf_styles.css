@@ -21,14 +21,6 @@ body {
 	margin: 3%;
 }
 
-footer{
-	font-size: .75em;
-	text-align: center;
-	background-color: rgb(118, 47, 0);
-	padding-top: 10px;
-	padding-bottom: 10px;
-}
-
 main {
 	background-color: #C5A98B;
 	padding: 10px;
@@ -53,6 +45,14 @@ h2 {
 	font-style: italic;
 }
 
-main, footer { 
+main { 
 	clear: both;
+}
+
+footer{
+	font-size: .75em;
+	text-align: center;
+	background-color: rgb(118, 47, 0);
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
