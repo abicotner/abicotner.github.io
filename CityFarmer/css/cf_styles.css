@@ -1,15 +1,15 @@
 /* Abi & Richard
 March 3, 2025 */
 
-body {
-	background-color: #B8D1EB;
-	font-family: 'Times New Roman', Times, serif;
-}
 #outerwrapper {
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
 } 
+body {
+	background-color: #B8D1EB;
+	font-family: 'Times New Roman', Times, serif;
+}
 
 .floatleft { 
 	float: left;
