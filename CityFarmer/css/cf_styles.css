@@ -9,17 +9,18 @@ March 3, 2025 */
 
 body {
 	background-color: #B8D1EB;
+	color: black;
 	font-family: 'Times New Roman', Times, serif;
 }
 
 .floatleft { 
 	float: left;
-	margin: 3%;
+	margin-right: 3%;
 }
 
 .floatright {
 	float: right;
-	margin: 3%;
+	margin-left: 3%;
 }
 
 main {
