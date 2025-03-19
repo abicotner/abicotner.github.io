@@ -1,0 +1,39 @@
+/*Abi Cotner
+March 18, 2025*/
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+header {
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #a8d6eb;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+#value {
+    background-color: #aef0cc;
+}
+
+#example {
+    background-color: #e3adb9
+}
+
+#example :nth-child(2) {
+    text-decoration: none;
+}
+
+#example :nth-child(3) {
+    text-decoration: underline;
+}
+
+#example :nth-child(4) {
+    text-decoration: overline;
+}
+
+#example :nth-child(5) {
+    text-decoration: line-through;
+}
